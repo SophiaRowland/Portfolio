@@ -1,2 +1,2 @@
 # Portfolio
-Here is a sample of my past work, writings, and examples. 
+[Sophia Rowland](https://www.linkedin.com/in/sophia-rowland/) is currently a Systems Engineer at SAS on a team that focuses on Data Science applications for the Financial Services industry. Sophia is an alumnus of both UNC-Chapel Hill and Duke (but remains loyal to UNC when it comes to sports). At UNC-Chapel Hill, Sophia double majored in Computer Science and Psychology. At Duke, Sophia attended the Fuqua School of Business and completed a Master of Science in Quantitative Management: Business Analytics. After work, Sophia can be found reading, hiking, and baking.
