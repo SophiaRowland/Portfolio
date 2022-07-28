@@ -1,6 +1,9 @@
 # Portfolio
 [Sophia Rowland](https://www.linkedin.com/in/sophia-rowland/) is currently the Product Manager of SAS Model Manager. Previously, Sophia was a Systems Engineer at SAS on a team that focuses on Data Science applications for the Financial Services industry. Sophia is an alumnus of both UNC-Chapel Hill and Duke. At UNC-Chapel Hill, Sophia double majored in Computer Science and Psychology. At Duke, Sophia attended the Fuqua School of Business and completed a Master of Science in Quantitative Management: Business Analytics. After work, Sophia can be found reading, hiking, and baking. Below, you can find a variety of Sophia's past writings and notebooks. 
 
+## Open Data Science 
+1. [ModelOps, MLOps, and Finding Value in Analytics](https://opendatascience.com/modelops-mlops-and-finding-value-in-analytics/) - Data scientists want to make an impact. But despite all their work and analytical investments, there is still a gap between finding insights and using insights. Enter MLOps and ModelOps.
+
 ## The SAS Data Science Blog
 1. [An Easy Button for Data Science](https://blogs.sas.com/content/subconsciousmusings/2019/10/23/data-science-easy-button/) - Do you ever wish there was an easy button on data science? Do you ever think to yourself, "I want a solution that could examine the importance of missing variables, create new features, and build models with the best possible performance?" I am still looking for that easy button. However, the Data Science Pilot Action Set comes pretty close.
 2. [Everything But the Kitchen Sink Feature Generation](https://blogs.sas.com/content/subconsciousmusings/2019/11/06/kitchen-sink-feature-generation/) -  Using the featureMachine action, we were able to create many new features and using the selectFeatures action, we narrowed our features down into a usable number. 
