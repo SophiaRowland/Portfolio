@@ -13,7 +13,9 @@
 
 ## SAS Explore 
 - [SAS Explore Opening Session 2022](https://video.sas.com/category/videos/sas-explore-2022) - CTO Bryan Harris reviews how the right analytics and AI platform can help businesses navigate and plan for disruption in the market by driving productivity and business outcomes. Demos include SAS Studio, Model Studio, SAS Model Manager, and more.
-<img src"/images/SAS Explore.PNG">
+
+<img src= "/images/SAS Explore.PNG">
+
 - [Unified ModelOps and Containerized Deployment for All Models Session](https://video.sas.com/detail/video/6311442790112/unified-modelops-and-containerized-deployment-for-all-models?autoStart=true&q=unified) - SAS® Model Manager establishes standardized ModelOps processes to traverse the last mile of analytics and get value from analytical investments.
 
 ## Open Data Science 
