@@ -4,17 +4,11 @@
 ## All Things Open 
 - [ATO 2022: A Data Scientist’s and ML Engineer’s Guide to ModelOps Session](https://2022.allthingsopen.org/sessions/a-data-scientists-and-ml-engineers-guide-to-modelops/) - n a recent survey, 42% of data scientists reported that their results were not used by decision-makers. When this work goes unused, it is demotivating. Ultimately, data scientists want to apply the models they have developed to solve problems and make better decisions. Data scientists want to make an impact. But despite all this work and investment, there is still a gap between finding insights and using insights. Enter ModelOps. In this session, Sophia Rowland, Product Manager of ModelOps at SAS, will introduce ModelOps, provide steps for getting started, and walk through best practices. This session will address how to bridge the gap between finding insights and using insights to improve outcomes through improved decision-making through analytics.
 
-<img src="/images/ATO Information.PNG">
-
 ## BrightTalk
 - [Best Practices for Adopting Containers within your MLOps Process Webinar](https://www.brighttalk.com/webcast/19155/558167?utm_source=SASInstituteInc&utm_medium=brighttalk&utm_campaign=558167) - With the release of SAS Container Runtime (SCR), organizations can execute models and decisions outside of SAS using standard technologies. Containerized deployments are lightweight to save on cloud costs, portable to enable easy movement across environments, and scalable to meet traffic needs. In this talk, we will discuss how IT and MLOps Engineering teams can create repeatable Continuous Integration/Continuous Delivery (CI/CD) processes to efficiently test and promote new models and decision flows using containers.
 
-<img src="/images/Webinar.PNG">
-
 ## SAS Explore 
 - [SAS Explore Opening Session 2022](https://video.sas.com/category/videos/sas-explore-2022) - CTO Bryan Harris reviews how the right analytics and AI platform can help businesses navigate and plan for disruption in the market by driving productivity and business outcomes. Demos include SAS Studio, Model Studio, SAS Model Manager, and more.
-
-<img src= "/images/SAS Explore.PNG">
 
 - [Unified ModelOps and Containerized Deployment for All Models Session](https://video.sas.com/detail/video/6311442790112/unified-modelops-and-containerized-deployment-for-all-models?autoStart=true&q=unified) - SAS® Model Manager establishes standardized ModelOps processes to traverse the last mile of analytics and get value from analytical investments.
 
@@ -72,6 +66,9 @@
 - [Custom Fraud Ops KPI](https://github.com/sassoftware/open-model-manager-resources/blob/main/samples/KPI/Fraud-Ops/example-custom-kpi-fraud-ops.sas) - This example creates custom performance monitoring KPIs in SAS Model Manager for fraud operations. 
 -  [Leveraging MLflow with SASCTL and Model Manager for SKLearn](https://github.com/sassoftware/python-sasctl/blob/master/examples/pzmmCompleteModelExampleMLFlowSklearn.ipynb) - In this notebook, we will push a model generated in MLflow into the Model Manager registry. 
 -  [Using GIT with SASCLT/PZMM](https://github.com/sassoftware/python-sasctl/blob/master/examples/pzmmGitIntegrationExample.ipynb) - In this notebook, we will walk through how to leverage SASCTL/PZMM to move assets from SAS Model Manager to a Git Repository.
+
+## SAS Viya Highlights Release Show
+- [Containerized SAS Models in GCP I SAS Viya 2021.2.3](https://www.youtube.com/watch?v=3Z7M7CPu4Is&t) -Product Manager Sophia Rowland will teach you all about containers and show you how to deploy and validate containerized SAS models into Google Cloud Platform (GCP) in just a few clicks in this month’s Release Talk!
 
 ## Certifications 
 - SAS Certified Base Programmer for SAS 9, March 2019
