@@ -3,6 +3,7 @@
 
 ## All Things Open 
 - [ATO 2022: A Data Scientist’s and ML Engineer’s Guide to ModelOps Session](https://2022.allthingsopen.org/sessions/a-data-scientists-and-ml-engineers-guide-to-modelops/) - n a recent survey, 42% of data scientists reported that their results were not used by decision-makers. When this work goes unused, it is demotivating. Ultimately, data scientists want to apply the models they have developed to solve problems and make better decisions. Data scientists want to make an impact. But despite all this work and investment, there is still a gap between finding insights and using insights. Enter ModelOps. In this session, Sophia Rowland, Product Manager of ModelOps at SAS, will introduce ModelOps, provide steps for getting started, and walk through best practices. This session will address how to bridge the gap between finding insights and using insights to improve outcomes through improved decision-making through analytics.
+
 ![All Things Open 2022](images/ATO Information.PNG)
 
 ## BrightTalk
