@@ -8,6 +8,7 @@
 
 ## BrightTalk
 - [Best Practices for Adopting Containers within your MLOps Process Webinar](https://www.brighttalk.com/webcast/19155/558167?utm_source=SASInstituteInc&utm_medium=brighttalk&utm_campaign=558167) - With the release of SAS Container Runtime (SCR), organizations can execute models and decisions outside of SAS using standard technologies. Containerized deployments are lightweight to save on cloud costs, portable to enable easy movement across environments, and scalable to meet traffic needs. In this talk, we will discuss how IT and MLOps Engineering teams can create repeatable Continuous Integration/Continuous Delivery (CI/CD) processes to efficiently test and promote new models and decision flows using containers.
+
 <img src="/images/Webinar.PNG">
 
 ## SAS Explore 
