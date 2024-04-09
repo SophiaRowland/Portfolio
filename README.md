@@ -17,7 +17,7 @@
 - [Unified ModelOps and Containerized Deployment for All Models Session](https://video.sas.com/detail/video/6311442790112/unified-modelops-and-containerized-deployment-for-all-models?autoStart=true&q=unified) - SAS® Model Manager establishes standardized ModelOps processes to traverse the last mile of analytics and get value from analytical investments.
 
 ## SAS Innovate
--[Enforcing Trustworthy AI Standards in Analytical Projects](https://www.sas.com/en_us/events/24q1/innovate-stream-ondemand.html#m-agenda) - Learn how SAS tools simplified The National Institute of Standards and Technology's (NIST) AI Risk Management Framework adoption. Gain insight into how models align with fairness and responsibility principles, and trustworthy AI practices and user roles.
+- [Enforcing Trustworthy AI Standards in Analytical Projects](https://www.sas.com/en_us/events/24q1/innovate-stream-ondemand.html#m-agenda) - Learn how SAS tools simplified The National Institute of Standards and Technology's (NIST) AI Risk Management Framework adoption. Gain insight into how models align with fairness and responsibility principles, and trustworthy AI practices and user roles.
 
 ## Open Data Science 
 - [ModelOps, MLOps, and Finding Value in Analytics](https://opendatascience.com/modelops-mlops-and-finding-value-in-analytics/) - Data scientists want to make an impact. But despite all their work and analytical investments, there is still a gap between finding insights and using insights. Enter MLOps and ModelOps. (Co-Author) 
