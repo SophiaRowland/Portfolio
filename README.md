@@ -112,8 +112,8 @@
 - [Assess Bias of Python Models, Automatically Create Scoring Code for TensorFlow Keras Models and More](https://communities.sas.com/t5/SAS-Communities-Library/Assess-Bias-of-Python-Models-Automatically-Create-Scoring-Code/ta-p/902508)
 - [Here we Flow Again: New SAS Studio Step for Python Model Registration](https://communities.sas.com/t5/SAS-Communities-Library/Here-we-Flow-Again-New-SAS-Studio-Step-for-Python-Model/ta-p/910626)
 - [Versioning in SAS Model Manager](https://communities.sas.com/t5/SAS-Communities-Library/Versioning-in-SAS-Model-Manager/ta-p/910445)
-- [Enforce Responsible AI Best Practices: Trustworthy AI Life Cycle Workflow Available](#https://communities.sas.com/t5/SAS-Communities-Library/Enforce-Responsible-AI-Best-Practices-Trustworthy-AI-Life-Cycle/ta-p/912717)
-- [Must See ModelOps Sessions & Demos at SAS Innovate](https://communities.sas.com/t5/SAS-Communities-Library/Must-See-ModelOps-Sessions-amp-Demos-at-SAS-Innovate/ta-p/921732) - 
+- [Enforce Responsible AI Best Practices: Trustworthy AI Life Cycle Workflow Available](https://communities.sas.com/t5/SAS-Communities-Library/Enforce-Responsible-AI-Best-Practices-Trustworthy-AI-Life-Cycle/ta-p/912717)
+- [Must See ModelOps Sessions & Demos at SAS Innovate](https://communities.sas.com/t5/SAS-Communities-Library/Must-See-ModelOps-Sessions-amp-Demos-at-SAS-Innovate/ta-p/921732)
 - [Model Execution in SAS Model Manager](https://communities.sas.com/t5/SAS-Communities-Library/Model-Execution-in-SAS-Model-Manager/ta-p/933563) 
 - [What Problem Will You Solve? Register for the SAS Hackathon Now!](https://communities.sas.com/t5/SAS-Communities-Library/What-Problem-Will-You-Solve-Register-for-the-SAS-Hackathon-Now/ta-p/933980)
 - [Using Azure OpenAI GPT Models in SAS Viya](https://communities.sas.com/t5/SAS-Communities-Library/Using-Azure-OpenAI-GPT-Models-in-SAS-Viya/ta-p/934268). 
@@ -159,7 +159,7 @@
 
 ***
 
-##Leadership and Community
+## Leadership and Community
 ### Toastmasters International
 - Member of SoftTalk Toastmasters since 2019
 - Treasurer, SoftTalk Toastmasters (2020-2021)
