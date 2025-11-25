@@ -19,7 +19,7 @@
 - SAS Explore 2023: Opening Session
 - SAS Explore 2023: [MLOps Uncoiled: Python’s Path on SAS Viya with SAS Model Manager](https://communities.sas.com/t5/SAS-Explore-Presentations/MLOps-Uncoiled-Python-s-Path-on-SAS-Viya-With-SAS-Model-Manager/ta-p/896335)
 - SAS Innovate 2024: Enforcing Trustworthy AI Standards in Analytical Projects
-- All Things Open 2024: [Enforcing Trustworthy AI Standards & Best Practices in Analytical Projects(https://www.youtube.com/watch?v=yRiKKSpfT7g)
+- All Things Open 2024: [Enforcing Trustworthy AI Standards & Best Practices in Analytical Projects](https://www.youtube.com/watch?v=yRiKKSpfT7g)
 - AI Summit New York 2024: Responsible AI Considerations for Language Models
 - All Things AI 2025: [Responsible AI Considerations for Language Models](https://allthingsopen.org/articles/7-steps-avoiding-pitfalls-ai-language-models]
 - SAS Innovate 2025: [Responsible AI: Building ModelOps Processes with SAS Model Manager](https://communities.sas.com/t5/SAS-Innovate-Presentations/Responsible-AI-Building-ModelOps-Processes-With-SAS-Model/ta-p/968641?emcs_t=S2h8ZW1haWx8Ym9hcmRfc3Vic2NyaXB0aW9ufE1CUVhQVTJNQ0FFTTQ2fDk2ODY0MXxTVUJTQ1JJUFRJT05TfGhL)
