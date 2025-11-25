@@ -1,22 +1,34 @@
 # Portfolio
 [Sophia Rowland](https://www.linkedin.com/in/sophia-rowland/) is a Senior Product Manager focusing on ModelOps and MLOps at SAS. In her previous role as a data scientist, Sophia worked with dozens of organizations to solve a variety of problems using analytics.  As an active speaker and writer, Sophia has spoken at events like All Things Open, SAS Explore, and SAS Innovate as well as written dozens of blogs and articles. As a staunch North Carolinian, Sophia holds degrees from both UNC-Chapel Hill and Duke including bachelor’s degrees in computer science and psychology and a Master of Science in Quantitative Management: Business Analytics from the Fuqua School of Business. Outside of work, Sophia enjoys reading an eclectic assortment of books, hiking throughout North Carolina, and staying upright while ice skating.  Below, you can find a variety of Sophia's past writings, notebooks, and sessions. 
 
-## All Things Open and All Things Open AI
-- [ATO 2022: A Data Scientist’s and ML Engineer’s Guide to ModelOps Session](https://2022.allthingsopen.org/sessions/a-data-scientists-and-ml-engineers-guide-to-modelops/) - In a recent survey, 42% of data scientists reported that their results were not used by decision-makers. When this work goes unused, it is demotivating. Ultimately, data scientists want to apply the models they have developed to solve problems and make better decisions. Data scientists want to make an impact. But despite all this work and investment, there is still a gap between finding insights and using insights. Enter ModelOps. In this session, Sophia Rowland, Product Manager of ModelOps at SAS, will introduce ModelOps, provide steps for getting started, and walk through best practices. This session will address how to bridge the gap between finding insights and using insights to improve outcomes through improved decision-making through analytics.
-- [ATO 2024:  Enforcing Trustworthy AI Standards & Best Practices in Analytical Projects](https://2024.allthingsopen.org/sessions/enforcing-trustworthy-ai-standards-best-practices-in-analytical-projects) - The National Institute of Standards and Technology (NIST) released an AI Risk Management Framework for trustworthy and responsible use of AI and analytics. NIST offers a portfolio of measurements, standards, and legal metrology to provide recommendations that ensure traceability, enable quality assurance, and harmonize documentary standards and regulatory practices. Their framework is very detailed with recommendations across four functions: govern, map, measure, and manage. In this session, we’ll discuss adopting these recommendations to ensure that analytical models don’t create disparate impact or harm. Attendees to this session will gain a greater understanding of trustworthy AI best practices as well as user roles and expectations for building responsible analytics.
-- [ATO AI 2025: Responsible AI Considerations for Language Models](https://allthingsopen.ai/sessions/responsible-ai-considerations-for-language-models) - AI is being used throughout our world in the systems and tools we use every day. This also means that AI is being used irresponsibly throughout our world. Irresponsible usage of AI incurs a cost, but it is not always a financial cost. As Language Models and Generative AI adoption increases, organizations open themselves to a new set of risks. In this session, Sophia Rowland will introduce potential pitfalls of Language Model adoption and how to address those pitfalls to build AI systems more responsibly.
+## Table of Contents
+1. [Presentations](#Presentations)
+1. [Webinars](#Webinars)
+1. [Podcasts](#Podcasts)
+1. [Writings](#Writings)
+1. [Certifications](#Certifications)
+1. [Leadership and Community](#Leadership-and-Community)
 
-## AI Summit New York
-- [Responsible AI Considerations for Language Models](https://newyork.theaisummit.com/the-ai-summit-new-york-2024/bridging-ai-divide-win) - AI is being used throughout our world in the systems and tools we use every day, which also means that AI is being used irresponsibly throughout our world. Irresponsible usage of AI incurs a cost, but it is not always a financial cost. As Large Language Model (LLM), Small Language Model (SLM), and Generative AI adoption increases, organizations open themselves to a new set of risks. In this session, Sophia Rowland will introduce potential pitfalls of LLM and SLM adoption and how to address those pitfalls to build AI systems around Language Models more responsibly.
+***
+## Presentations
+- [All Things Open 2022: A Data Scientist’s and ML Engineer’s Guide to ModelOps Session](https://2022.allthingsopen.org/sessions/a-data-scientists-and-ml-engineers-guide-to-modelops/)
+- [All Things Open 2024:  Enforcing Trustworthy AI Standards & Best Practices in Analytical Projects](https://2024.allthingsopen.org/sessions/enforcing-trustworthy-ai-standards-best-practices-in-analytical-projects) - [Recording available](https://www.youtube.com/watch?v=yRiKKSpfT7g)
+- AI Summit New York 2025: Responsible AI Considerations for Language Models
+- [All Things AI 2025: Responsible AI Considerations for Language Models](https://allthingsopen.ai/sessions/responsible-ai-considerations-for-language-models) - (Recoding available)[https://allthingsopen.org/articles/7-steps-avoiding-pitfalls-ai-language-models]
 
-## Brave Technologist Podcast 
-- [The Role of Analytics in Shaping the Future of MLOps](https://brave.com/podcast/e55/#) - Sophia Rowland, Senior Product Manager at SAS, discusses her journey from data science to product management at SAS, focusing on the integration of AI and analytics. She explains the concepts of Model Ops and ML Ops, the challenges organizations face in operationalizing machine learning models, and the critical role of analytics in this process.
+***
+## Webinars
+- [The National Consortium for Data Science 2024: Supporting AI Risk Management in the Analytics Lifecycle](https://www.youtube.com/watch?v=IfvFyFUOsiE)
 
-## National Consortium for Data Science
-- [Supporting AI Risk Management in the Analytics Lifecycle](https://www.youtube.com/watch?v=IfvFyFUOsiE) - The National Institute of Standards and Technology (NIST) released an AI Risk Management Framework for trustworthy and responsible use of AI and analytics. NIST offers a portfolio of measurements, standards, and legal metrology to provide recommendations that ensure traceability, enable quality assurance, and harmonize documentary standards and regulatory practices. Their framework is very detailed with recommendations across four functions: govern, map, measure, and manage. In this session, we’ll discuss incorporating these recommendations into the analytics lifecycle. Attendees to this session will gain a greater understanding of trustworthy AI best practices as well as user roles and expectations for building responsible analytics.
+***
+## Podcasts
+- [MLOps Community Podcast 2024: Extending AI: From Industry to Innovation with Sophia Rowland & David Weik](https://podcasts.apple.com/us/podcast/extending-ai-from-industry-to-innovation-sophia-rowland/id1505372978?i=1000662036964)
+- [The Brave Technologist 2025: The Role of Analytics in Shaping the Future of MLOps](https://brave.com/podcast/e55/#)
 
-## MLOps Community Podcast
-- [Extending AI: From Industry to Innovation with Sophia Rowland & David Weik](https://podcasts.apple.com/us/podcast/extending-ai-from-industry-to-innovation-sophia-rowland/id1505372978?i=1000662036964) - Sophia Rowland & David Weik joined the MLOps Community Podcast to share learnings and best practices from implementing MLOps and LLMOPs at organizations across industries, around the globe, and using various types of models and deployments, from IoT CV problems to composite flows that feature LLMs.
+
+
+
+
 
 ## Webinars
 - [Best Practices for Adopting Containers within your MLOps Process Webinar](https://www.brighttalk.com/webcast/19155/558167?utm_source=SASInstituteInc&utm_medium=brighttalk&utm_campaign=558167) - With the release of SAS Container Runtime (SCR), organizations can execute models and decisions outside of SAS using standard technologies. Containerized deployments are lightweight to save on cloud costs, portable to enable easy movement across environments, and scalable to meet traffic needs. In this talk, we will discuss how IT and MLOps Engineering teams can create repeatable Continuous Integration/Continuous Delivery (CI/CD) processes to efficiently test and promote new models and decision flows using containers.
