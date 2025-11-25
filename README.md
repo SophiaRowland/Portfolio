@@ -21,7 +21,7 @@
 - SAS Innovate 2024: Enforcing Trustworthy AI Standards in Analytical Projects
 - All Things Open 2024: [Enforcing Trustworthy AI Standards & Best Practices in Analytical Projects](https://www.youtube.com/watch?v=yRiKKSpfT7g)
 - AI Summit New York 2024: Responsible AI Considerations for Language Models
-- All Things AI 2025: [Responsible AI Considerations for Language Models](https://allthingsopen.org/articles/7-steps-avoiding-pitfalls-ai-language-models]
+- All Things AI 2025: [Responsible AI Considerations for Language Models](https://allthingsopen.org/articles/7-steps-avoiding-pitfalls-ai-language-models)
 - SAS Innovate 2025: [Responsible AI: Building ModelOps Processes with SAS Model Manager](https://communities.sas.com/t5/SAS-Innovate-Presentations/Responsible-AI-Building-ModelOps-Processes-With-SAS-Model/ta-p/968641?emcs_t=S2h8ZW1haWx8Ym9hcmRfc3Vic2NyaXB0aW9ufE1CUVhQVTJNQ0FFTTQ2fDk2ODY0MXxTVUJTQ1JJUFRJT05TfGhL)
 - SAS Innovate 2025 [Using SAS Model Manager to Deploy Models Trained in SAS Viya Workbench](https://communities.sas.com/t5/SAS-Innovate-Presentations/Using-SAS-Model-Manager-to-Deploy-Models-Trained-in-SAS-Viya/ta-p/968634?emcs_t=S2h8ZW1haWx8Ym9hcmRfc3Vic2NyaXB0aW9ufE1CUVRQWTdRMTdCMjIyfDk2ODYzNHxTVUJTQ1JJUFRJT05TfGhL)
 - Data Science Connect Collide 2025: AI Governance in Practice: How Synthetic Data Prepares You for What’s Next
