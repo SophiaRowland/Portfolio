@@ -1,7 +1,3 @@
----
-sidebar_position: 1
----
-
 # Portfolio
 [Sophia Rowland](https://www.linkedin.com/in/sophia-rowland/) is a Senior Product Manager focusing on ModelOps and MLOps at SAS. In her previous role as a data scientist, Sophia worked with dozens of organizations to solve a variety of problems using analytics.  As an active speaker and writer, Sophia has spoken at events like All Things Open, SAS Explore, and SAS Innovate as well as written dozens of blogs and articles. As a staunch North Carolinian, Sophia holds degrees from both UNC-Chapel Hill and Duke including bachelor’s degrees in computer science and psychology and a Master of Science in Quantitative Management: Business Analytics from the Fuqua School of Business. Outside of work, Sophia enjoys reading an eclectic assortment of books, hiking throughout North Carolina, and staying upright while ice skating.  Below, you can find a variety of Sophia's past writings, notebooks, and sessions. 
 
