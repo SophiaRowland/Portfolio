@@ -39,6 +39,7 @@
 ## Podcasts
 - MLOps Community Podcast 2024: [Extending AI: From Industry to Innovation with Sophia Rowland & David Weik](https://podcasts.apple.com/us/podcast/extending-ai-from-industry-to-innovation-sophia-rowland/id1505372978?i=1000662036964)
 - The Brave Technologist 2025: [The Role of Analytics in Shaping the Future of MLOps](https://brave.com/podcast/e55/#)
+- Compiler 2025: [Breaking Down AI Biases](https://www.redhat.com/en/compiler-podcast/breaking-down-ai-biases)
 - We Love Open Source 2025: [How to Manage AI Responsibly with MLOps, Model Cards, and Nutrition Labels](https://allthingsopen.org/articles/responsible-ai-mlops-model-cards)
 
 *** 
